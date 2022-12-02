@@ -13,6 +13,8 @@
 
 支持一个用户多客户端同时在线，可同时收到同样的聊天信息。
 
+![1670001353172](https://user-images.githubusercontent.com/83346523/205348442-10036a15-18a0-4f0f-8aab-ca9e696df99d.jpg)
+
 ![1669999947066](https://user-images.githubusercontent.com/83346523/205344219-441cf64a-0bac-4104-ba6b-eb306b885fae.jpg)
 
 ![1669999957911](https://user-images.githubusercontent.com/83346523/205344260-8885d30a-88a4-4411-937b-32d45f0d05d8.jpg)
