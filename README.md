@@ -12,3 +12,7 @@
 也支持消息漫游访问（换一台电脑，也可以收取之前所有的聊天内容。）。
 
 支持一个用户多客户端同时在线，可同时收到同样的聊天信息。
+
+![1669999947066](https://user-images.githubusercontent.com/83346523/205344219-441cf64a-0bac-4104-ba6b-eb306b885fae.jpg)
+
+![1669999957911](https://user-images.githubusercontent.com/83346523/205344260-8885d30a-88a4-4411-937b-32d45f0d05d8.jpg)
